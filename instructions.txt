@@ -1,0 +1,20 @@
+Welcome to the Caesar Cipher Program!
+
+**Two Ways to Use Program
+1: Run via terminal
+2: Run via input file
+
+---Run via Terminal
+  1.)Execute command "$ python3 main.py <key>" in terminal
+      ~if you do not add a key to the end the program will not run
+  2.)Insert encoded phrase
+  3.)Press q to stop and to return your encoded phrase as an encryption
+  4.)Done!
+
+---Run via Input File
+  1.)Add encoded phrase into plaintext.txt file
+  2.)Execute command "$ python3 main.py [<key>] < plaintext.txt > cryptedtex.txt" in terminal
+  3.)Check cryptedtext.txt file for encoded phrase as an encryption
+  4.)Done!
+
+Written by Myles Block ~ Unix Lab
